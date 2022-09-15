@@ -1,0 +1,4 @@
+aiohttp~=3.8.1
+aiomisc~=16.2.4
+setuptools~=60.2.0
+SQLAlchemy~=1.4.41
